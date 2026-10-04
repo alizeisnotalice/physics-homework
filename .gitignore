@@ -1,0 +1,17 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.xdv
+*.out
+*.toc
+*.synctex.gz
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS/editor temporary files
+.DS_Store
+*.swp
+*~
